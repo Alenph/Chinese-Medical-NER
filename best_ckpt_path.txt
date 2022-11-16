@@ -1,0 +1,6 @@
+./out/roberta_wwm_wd_crf/checkpoint-816/model.pt
+./out/roberta_wwm_wd_crf_stack/v0/checkpoint-100000/model.pt
+./out/roberta_wwm_wd_crf_stack/v1/checkpoint-100000/model.pt
+./out/roberta_wwm_wd_crf_stack/v2/checkpoint-100000/model.pt
+./out/roberta_wwm_wd_crf_stack/v3/checkpoint-100000/model.pt
+./out/roberta_wwm_wd_crf_stack/v4/checkpoint-100000/model.pt

@@ -1,0 +1,1 @@
+/home/pengh/py_home/NLP_home/experiment/DeepNER-master/out/roberta_wwm_wd_crf/checkpoint-816/model.pt
